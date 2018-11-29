@@ -26,6 +26,8 @@ function escort_files() {
     wp_enqueue_style('add-bx-css4');
     wp_enqueue_style('font-awesome');
 }
-
+//we are testing something
 add_action('wp_enqueue_scripts', 'escort_files');
 
+
+?>
